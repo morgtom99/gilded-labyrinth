@@ -1,0 +1,61 @@
+{
+  "id": "theme-gilded-labyrinth",
+  "title": "Gilded Labyrinth",
+  "description": "An intricate, abstract aesthetic reminiscent of ancient Persian manuscripts, featuring dense patterns, precise line work, and opulent, jewel-toned pigmentation against warm, illuminated grounds.",
+  "seedPalette": [
+    "#264653",
+    "#E7C698",
+    "#2A9D8F",
+    "#E07A5F",
+    "#45B8AC",
+    "#6A3E5D",
+    "#F4A261"
+  ],
+  "colorConcepts": [
+    [
+      "lapis",
+      "inkwell",
+      "celestial"
+    ],
+    [
+      "goldleaf",
+      "gilding",
+      "enamel"
+    ],
+    [
+      "cypress",
+      "paradise",
+      "foliage"
+    ],
+    [
+      "cinnabar",
+      "saffron",
+      "caravan"
+    ],
+    [
+      "minaret",
+      "tilework",
+      "fountain"
+    ],
+    [
+      "amethyst",
+      "velvet",
+      "brocade"
+    ],
+    [
+      "parchment",
+      "ochre",
+      "spice"
+    ]
+  ],
+  "primary": "171 61% 39%",
+  "background": "220 10% 12%",
+  "accent": "318 20% 20%",
+  "imageStyle": {
+    "complexity": "maximal",
+    "style": "abstract",
+    "detail": "detailed"
+  },
+  "repository": "gilded-labyrinth",
+  "owner": "morgtom99"
+}
