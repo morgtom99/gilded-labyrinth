@@ -54,7 +54,9 @@
   "imageStyle": {
     "complexity": "maximal",
     "style": "abstract",
-    "detail": "detailed"
+    "detail": "detailed",
+    "dimension": "flat",
+    "lighting": "soft"
   },
   "repository": "gilded-labyrinth",
   "owner": "morgtom99"
