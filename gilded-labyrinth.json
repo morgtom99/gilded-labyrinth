@@ -56,18 +56,45 @@
     "style": "abstract",
     "detail": "detailed",
     "dimension": "flat",
-    "lighting": "soft",
-    "texture": "none"
+    "lighting": "ambient"
   },
   "repository": "gilded-labyrinth",
   "owner": "morgtom99",
-  "colorDescriptions": [
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
+  "conceptPrompts": [
+    [
+      "[Subject: LAPIS]. A high-fidelity abstract aesthetic. Theme: Gilded Labyrinth. Aesthetic Context: An intricate, abstract aesthetic reminiscent of ancient Persian manuscripts, featuring dense patterns, precise line work, and opulent, jewel-toned pigmentation against warm, illuminated grounds.. Parameters: flat dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #264653.",
+      "[Subject: INKWELL]. A high-fidelity abstract aesthetic. Theme: Gilded Labyrinth. Aesthetic Context: An intricate, abstract aesthetic reminiscent of ancient Persian manuscripts, featuring dense patterns, precise line work, and opulent, jewel-toned pigmentation against warm, illuminated grounds.. Parameters: flat dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #264653.",
+      "[Subject: CELESTIAL]. A high-fidelity abstract aesthetic. Theme: Gilded Labyrinth. Aesthetic Context: An intricate, abstract aesthetic reminiscent of ancient Persian manuscripts, featuring dense patterns, precise line work, and opulent, jewel-toned pigmentation against warm, illuminated grounds.. Parameters: flat dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #264653."
+    ],
+    [
+      "[Subject: GOLDLEAF]. A high-fidelity abstract aesthetic. Theme: Gilded Labyrinth. Aesthetic Context: An intricate, abstract aesthetic reminiscent of ancient Persian manuscripts, featuring dense patterns, precise line work, and opulent, jewel-toned pigmentation against warm, illuminated grounds.. Parameters: flat dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #E7C698.",
+      "[Subject: GILDING]. A high-fidelity abstract aesthetic. Theme: Gilded Labyrinth. Aesthetic Context: An intricate, abstract aesthetic reminiscent of ancient Persian manuscripts, featuring dense patterns, precise line work, and opulent, jewel-toned pigmentation against warm, illuminated grounds.. Parameters: flat dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #E7C698.",
+      "[Subject: ENAMEL]. A high-fidelity abstract aesthetic. Theme: Gilded Labyrinth. Aesthetic Context: An intricate, abstract aesthetic reminiscent of ancient Persian manuscripts, featuring dense patterns, precise line work, and opulent, jewel-toned pigmentation against warm, illuminated grounds.. Parameters: flat dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #E7C698."
+    ],
+    [
+      "[Subject: CYPRESS]. A high-fidelity abstract aesthetic. Theme: Gilded Labyrinth. Aesthetic Context: An intricate, abstract aesthetic reminiscent of ancient Persian manuscripts, featuring dense patterns, precise line work, and opulent, jewel-toned pigmentation against warm, illuminated grounds.. Parameters: flat dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #2A9D8F.",
+      "[Subject: PARADISE]. A high-fidelity abstract aesthetic. Theme: Gilded Labyrinth. Aesthetic Context: An intricate, abstract aesthetic reminiscent of ancient Persian manuscripts, featuring dense patterns, precise line work, and opulent, jewel-toned pigmentation against warm, illuminated grounds.. Parameters: flat dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #2A9D8F.",
+      "[Subject: FOLIAGE]. A high-fidelity abstract aesthetic. Theme: Gilded Labyrinth. Aesthetic Context: An intricate, abstract aesthetic reminiscent of ancient Persian manuscripts, featuring dense patterns, precise line work, and opulent, jewel-toned pigmentation against warm, illuminated grounds.. Parameters: flat dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #2A9D8F."
+    ],
+    [
+      "[Subject: CINNABAR]. A high-fidelity abstract aesthetic. Theme: Gilded Labyrinth. Aesthetic Context: An intricate, abstract aesthetic reminiscent of ancient Persian manuscripts, featuring dense patterns, precise line work, and opulent, jewel-toned pigmentation against warm, illuminated grounds.. Parameters: flat dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #E07A5F.",
+      "[Subject: SAFFRON]. A high-fidelity abstract aesthetic. Theme: Gilded Labyrinth. Aesthetic Context: An intricate, abstract aesthetic reminiscent of ancient Persian manuscripts, featuring dense patterns, precise line work, and opulent, jewel-toned pigmentation against warm, illuminated grounds.. Parameters: flat dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #E07A5F.",
+      "[Subject: CARAVAN]. A high-fidelity abstract aesthetic. Theme: Gilded Labyrinth. Aesthetic Context: An intricate, abstract aesthetic reminiscent of ancient Persian manuscripts, featuring dense patterns, precise line work, and opulent, jewel-toned pigmentation against warm, illuminated grounds.. Parameters: flat dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #E07A5F."
+    ],
+    [
+      "[Subject: MINARET]. A high-fidelity abstract aesthetic. Theme: Gilded Labyrinth. Aesthetic Context: An intricate, abstract aesthetic reminiscent of ancient Persian manuscripts, featuring dense patterns, precise line work, and opulent, jewel-toned pigmentation against warm, illuminated grounds.. Parameters: flat dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #45B8AC.",
+      "[Subject: TILEWORK]. A high-fidelity abstract aesthetic. Theme: Gilded Labyrinth. Aesthetic Context: An intricate, abstract aesthetic reminiscent of ancient Persian manuscripts, featuring dense patterns, precise line work, and opulent, jewel-toned pigmentation against warm, illuminated grounds.. Parameters: flat dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #45B8AC.",
+      "[Subject: FOUNTAIN]. A high-fidelity abstract aesthetic. Theme: Gilded Labyrinth. Aesthetic Context: An intricate, abstract aesthetic reminiscent of ancient Persian manuscripts, featuring dense patterns, precise line work, and opulent, jewel-toned pigmentation against warm, illuminated grounds.. Parameters: flat dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #45B8AC."
+    ],
+    [
+      "[Subject: AMETHYST]. A high-fidelity abstract aesthetic. Theme: Gilded Labyrinth. Aesthetic Context: An intricate, abstract aesthetic reminiscent of ancient Persian manuscripts, featuring dense patterns, precise line work, and opulent, jewel-toned pigmentation against warm, illuminated grounds.. Parameters: flat dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #6A3E5D.",
+      "[Subject: VELVET]. A high-fidelity abstract aesthetic. Theme: Gilded Labyrinth. Aesthetic Context: An intricate, abstract aesthetic reminiscent of ancient Persian manuscripts, featuring dense patterns, precise line work, and opulent, jewel-toned pigmentation against warm, illuminated grounds.. Parameters: flat dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #6A3E5D.",
+      "[Subject: BROCADE]. A high-fidelity abstract aesthetic. Theme: Gilded Labyrinth. Aesthetic Context: An intricate, abstract aesthetic reminiscent of ancient Persian manuscripts, featuring dense patterns, precise line work, and opulent, jewel-toned pigmentation against warm, illuminated grounds.. Parameters: flat dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #6A3E5D."
+    ],
+    [
+      "[Subject: PARCHMENT]. A high-fidelity abstract aesthetic. Theme: Gilded Labyrinth. Aesthetic Context: An intricate, abstract aesthetic reminiscent of ancient Persian manuscripts, featuring dense patterns, precise line work, and opulent, jewel-toned pigmentation against warm, illuminated grounds.. Parameters: flat dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #F4A261.",
+      "[Subject: OCHRE]. A high-fidelity abstract aesthetic. Theme: Gilded Labyrinth. Aesthetic Context: An intricate, abstract aesthetic reminiscent of ancient Persian manuscripts, featuring dense patterns, precise line work, and opulent, jewel-toned pigmentation against warm, illuminated grounds.. Parameters: flat dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #F4A261.",
+      "[Subject: SPICE]. A high-fidelity abstract aesthetic. Theme: Gilded Labyrinth. Aesthetic Context: An intricate, abstract aesthetic reminiscent of ancient Persian manuscripts, featuring dense patterns, precise line work, and opulent, jewel-toned pigmentation against warm, illuminated grounds.. Parameters: flat dimension, ambient lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #F4A261."
+    ]
   ]
 }
